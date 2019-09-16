@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootFeatures
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: gottapu.krishna
+Implementation-Vendor-Id: com.springboot
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootFeatures
+Created-By: Maven Integration for Eclipse
+
